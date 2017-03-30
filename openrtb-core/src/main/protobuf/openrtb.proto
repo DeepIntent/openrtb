@@ -2741,6 +2741,12 @@ enum DataAssetType {
   CTATEXT = 12;
 
   // Exchange-specific values above 500.
+
+  // Text Describing the 'opt out'
+  OPTOUTTEXT = 501;
+
+  // The opt out url
+  OPTOUTURL = 502;
 }
 
 // OpenRTB Native 1.0: Common image asset element types of native advertising
