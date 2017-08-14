@@ -1,6 +1,18 @@
 RELEASE NOTES
 ----------------------------------------------------------------------
 
+## Version 1.4.5, 07-08-2017
+- Only dependency updates.
+
+## Version 1.4.3, 27-06-2017
+- Fixed very minor bug in JSON support.
+
+## Version 1.4.1, 23-05-2017
+- Now using Protobuf 3.3.1.
+
+## Version 1.4.0, 18-04-2017
+* Support for OpenRTB 2.5!
+
 ## Version 1.3.0, 03-02-2017
 * Updated Protocol Buffers to v3.2.0!  You will need to install this
   exact version of protobuf, have it in the PATH, rebuild everything.
